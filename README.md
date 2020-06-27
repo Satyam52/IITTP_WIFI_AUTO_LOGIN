@@ -1,3 +1,3 @@
 # IITTP_WIFI_AUTO_LOGIN
 
-#it is a web automation using selenium for windows.it will login into iittp wifi.
+> It is a web automation using selenium for windows.it will connect to IIT Tirupati wifi network with a CLick.
