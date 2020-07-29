@@ -6,7 +6,7 @@
     1. Chrome Browser
 ### Steps:
     1. extract this and put in a folder.
-    2. Install Selenium driver from this folder.
+    2. Install chrome driver from this folder.
     3. now replace your roll number and password in automation.py.
     4. Now execute automation.py or click on login.bat file.
     5. make a desktop shortcut of login.bat and You are good to go.
