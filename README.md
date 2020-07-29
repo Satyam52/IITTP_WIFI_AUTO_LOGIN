@@ -4,6 +4,7 @@
 
 ### Pre-required:
     1. Chrome Browser
+    2 . Selenium drivers
 ### Steps:
     1. extract this and put in a folder.
     2. Install chrome driver from this folder.
